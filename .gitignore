@@ -24,3 +24,9 @@ hs_err_pid*
 
 # Mac garbage
 .DS*
+
+# Gradle stuff
+.gradle/
+
+# Idea stuff
+.idea/
